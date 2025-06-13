@@ -1,2 +1,2 @@
 # Day-5-duck
-ducktool
+https://day-5-duck.streamlit.app/
